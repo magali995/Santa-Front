@@ -1,4 +1,9 @@
-body {background-color: pink;}
+body {background-color: pink;
+background-image: url(../imagenes/comidas/pizza.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+}
 
 .rojoletra{color: red; font-size: xx-large; text-decoration: underline; text-align: center;}
 
@@ -7,3 +12,26 @@ body {background-color: pink;}
 .textonegro{font-size: large;}
 
 .fotodepizza{width: auto; width: auto;}
+
+header{background-color: orange;}
+nav{background-color: yellow;}
+section{background-color: blue;}
+aside{background-color: brown;}
+footer{background-color: pink;}
+
+.iconowsp{width: 50px;
+position: fixed;
+bottom: 10px;
+right: 15px;}
+
+.iconoyoutube{width: 50px;
+left: 30 px;}
+
+.iconoinstagram{width: 50px;
+left: 50 px;}
+
+.iconofacebook{width: 50px;
+left: 70 px;}
+
+
+header{border: 5px black solid;}
